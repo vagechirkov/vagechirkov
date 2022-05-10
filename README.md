@@ -6,6 +6,6 @@ For my thesis, I applied natural language processing and data analysis in the fi
 
 I’m interested in developing open-source software for cognitive psychology and neuroscience. You can follow me on [Twitter](https://twitter.com/ValeriiChirkov).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagechirkov&theme=default&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagechirkov&theme=default&count_private=true&hide=stars,contribs&show_icons=true)
 
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vagechirkov&theme=default&count_private=true) --->
